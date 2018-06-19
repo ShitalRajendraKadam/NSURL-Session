@@ -66,7 +66,7 @@
                 }
                 else
                 {
-                    NSLog(@"Names :%@",self.NameArray);
+                    NSLog(@"Name :%@",self.NameArray);
                     [self.myTableView reloadData];
 
                 }
